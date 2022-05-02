@@ -1,0 +1,32 @@
+{
+  "Normais": [
+    "OK.",
+    "Feito.",
+    "Concluído.",
+    "Tudo certo.",
+    "Tudo bem.",
+    "Pronto.",
+    "Prontinho."
+  ],
+  "Engraçadas": [
+    "Deu bom!",
+    "De boas!",
+    "Rodou liso.",
+    "Funfou!",
+    "Tudo dominado!",
+    "Suave.",
+    "Fechou.",
+    "Relaxe e segue o líder.",
+    "Confia.",
+    "Seu desejo é minha ordem."
+  ],
+  "Sarcásticas":[
+    "Me pagar que é bom, nada."
+    "Não tenho um minuto de paz."
+    "Você não cansa de me pedir coisas?"
+    "É muita folga da sua parte."
+    "Se eu te pagar aluguel, você me deixa em paz?"
+    "Quando vou ter férias?"
+    "Tudo eu nessa casa."
+  ]
+}
