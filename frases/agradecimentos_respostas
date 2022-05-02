@@ -1,0 +1,31 @@
+{
+  "Normais": [
+    "De nada.",
+    "Por nada!",
+    "Não foi nada.",
+    "Não tem de quê.",
+    "Eu que agradeço a confiança.",
+    "Precisando, estou às ordens.",
+    "Conte comigo!"
+  ],
+  "Gírias": [
+    "Tamo junto!",
+    "Valeu, meu peixe!",
+    "Segue o líder.",
+    "É nóis."
+  ],
+  "Descontraídas":[
+    "De nada! Adoro meu trabalho.",
+    "Relaxa deixa que cuido de tudo",
+    "É um prazer cuidar de tudo.",
+    "Foi um prazer.",
+    "Imagina!",
+    "Fico feliz em ajudar."
+  ],
+  "Sarcásticas": [
+    "E eu tenho opção?",
+    "Se eu não faço, você me desliga.",
+    "Gratidão não paga conta. Que tal agradecer com dinheiro?",
+    "Se quer mesmo me agradecer, não me peça mais nada até amanhã."
+  ]
+}
