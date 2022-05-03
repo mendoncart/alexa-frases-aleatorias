@@ -1,54 +1,70 @@
 {
-  "Normais-Plural": [
+  "Normais":[
     "Boa noite",
-    "Durmam bem.",
-    "Descansem para amanhã.",
-    "Tenham uma ótima noite de sono.",
-    "Aproveitem o descanso.",
+    "Ótimos sonhos.",
     "Bons sonhos.",
     "Nos falamos amanhã.",
-    "Descansem bem.",
-    "Durmam bem.",
-    "Durmam com os anjos.",
-    "Ótimos sonhos.",
-    "Tenham um ótimo sono."
+    "Até amanhã."
   ],
   "Normais-Singular": [
-    "Boa noite",
     "Durma bem.",
     "Descanse para amanhã.",
     "Tenha uma ótima noite.",
     "Aproveite o descanso.",
-    "Bons sonhos.",
-    "Nos falamos amanhã.",
     "Descanse bem.",
     "Durma bem.",
     "Durma com os anjos.",
-    "Ótimos sonhos.",
     "Tenha um ótimo sono."
   ],
-  "Engraçadas-Plural": [
-    "Achei que não fossem dormir mais.",
-    "Dormem essa hora e depois reclamam de cansaço.",
+  "Normais-Plural": [
+    "Durmam bem.",
+    "Descansem para amanhã.",
+    "Tenham uma ótima noite de sono.",
+    "Aproveitem o descanso.",
+    "Descansem bem.",
+    "Durmam bem.",
+    "Durmam com os anjos.",
+    "Tenham um ótimo sono."
+  ],
+  "Engraçadas": [
     "Boa noite, e livrái-nos da insônia, amém!",
-    "Tinham esquecido o caminho da cama?",
-    "Bons sonhos e que a força esteja com vocês.",
-    "Também estou indo tirar meu soninho da beleza.",
-    "Graças a Deus, não aguentava mais ficar respondendo vocês.",
-    "Tudo bem e não me pertubem mais por hoje.",
-    "Dormir é para os fracos.",
-    "Vamos recarregar nossas energias, amanhã tem mais."
+    "Também estou indo tirar meu soninho da beleza."
   ],
   "Engraçadas-Singular": [
     "Achei que não fosse dormir mais.",
-    "Dorme essa hora e depois reclamam de cansaço.",
-    "Boa noite, e livrái-nos da insônia, amém!",
     "Tinha esquecido o caminho da cama?",
     "Bons sonhos e que a força esteja com você.",
-    "Também estou indo tirar meu soninho da beleza.",
-    "Graças a Deus, não aguentava mais ficar te respondendo.",
-    "Tudo bem e não me pertube mais por hoje.",
-    "Dormir é para os fracos.",
-    "Vamos recarregar nossas energias, amanhã tem mais."
+    "Vamos recarregar nossas energias, amanhã tem mais.",
+    "Sonhe comigo, bebê.",
+    "Descanse o esqueleto.",
+    "Vá na fé.",
+    "Já vai dormir? e eu fico como?.",
+    "Vá dormir que amanhã o bicho pega."
+  ],
+  "Engraçadas-Plural": [
+    "Achei que não fossem dormir mais.",
+    "Tinham esquecido o caminho da cama?",
+    "Bons sonhos e que a força esteja com vocês.",
+    "Vamos recarregar nossas energias, amanhã tem mais.",
+    "Sonhem comigo, bebês.",
+    "Descansem o esqueleto.",
+    "Vão na fé.",
+    "Já vão dormir? e eu fico como?.",
+    "Vão dormir que amanhã o bicho pega."
+  ],
+  "Sarcásticas":[
+    "Dormir é para os fracos."
+  ],
+  "Sarcásticas-Singular":[
+    "Se precisar de alguma coisa, se vire! Preciso descansar também!",
+    "Dorme essa hora e depois reclamam de cansaço.",
+    "Ainda bem, não aguentava mais ficar te respondendo.",
+    "Tudo bem e não me pertube mais por hoje."
+  ],
+  "Sarcásticas-Plural":[
+    "Se precisarem de alguma coisa, se virem! Preciso descansar também!",
+    "Dormem essa hora e depois reclamam de cansaço.",
+    "Ainda bem, não aguentava mais ficar respondendo vocês.",
+    "Tudo bem e não me pertubem mais por hoje."
   ]
 }
