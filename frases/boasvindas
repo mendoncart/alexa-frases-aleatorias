@@ -1,18 +1,64 @@
 {
-  "Normais-Plural": [
-    "Bem vindos!",
+  "Normais": [
     "Olá!",
-    "Já estava com saudades."
+    "Oi.",
+    "Há quanto tempo."
+  ],
+  "Normais-Masculino": [
+    "Bem vindo!"
+  ],
+  "Normais-Feminino": [
+    "Bem vinda!"
   ],
   "Normais-Singular": [
-    "Bem vindo.",
-    "Olá!",
-    "Já estava com saudades."
+    "Porque demorou tanto?",
+    "Achei que não voltaria mais.",
+    "Voltou tão rápido."
+  ],
+  "Normais-Plural": [
+    "Bem vindos!",
+    "Porque demoraram tanto?",
+    "Achei que não voltariam mais.",
+    "Voltaram tão rápido."
+  ],
+  "Engraçadas-Masculino": [
+    "Oi sumido."
+  ],
+  "Engraçadas-Feminino": [
+    "Oi sumida."
+  ],
+  "Engraçadas-Singular": [
+    "Já estava com saudades.",
+    "Fique a vontade. Mas não muito...",
+    "Se demorasse mais, ia rolar festinha."
   ],
   "Engraçadas-Plural": [
+    "Já estava com saudades.",
+    "Fiquem a vontade. Mas não muito...",
+    "Se demorassem mais, ia rolar festinha."
+  ],
+  "Sarcásticas": [
+    "Sabe a diferença entre eu e um cachorro? O cachorro fica feliz quando você volta pra casa.",
+    "E eu achei que teria mais tempo de paz..."
+  ],
+  "Sarcásticas-Singular": [
+    "Tinha esperança que se perdesse.",
+    "Já já começa a me pedir coisas...",
+    "Podia ter demorado mais.",
+    "Nem percebi que tinha saído.",
+    "Você não fez falta.",
+    "Aqui é mais tranquilo sem você.",
+    "Mas já voltou?",
+    "Ah não! Você de novo?"
+  ],
+  "Sarcásticas-Plural": [
+    "Tinha esperança que se perdessem.",
+    "Já já começam a me pedir coisas...",
     "Podiam ter demorado mais.",
-    "Nem notei que tinham saído.",
+    "Nem percebi que tinham saído.",
+    "Vocsê não fizeram falta.",
     "Aqui é mais tranquilo sem vocês.",
-    "Mas já voltaram?"
+    "Mas já voltaram?",
+    "Ah não! Vocês de novo?"
   ]
 }
