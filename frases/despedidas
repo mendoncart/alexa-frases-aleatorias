@@ -1,0 +1,41 @@
+{
+  "Normais": [
+    "Tchau.",
+    "Tchauzinho.",
+    "Até mais.",
+    "Vou ficar de olho nas coisas.",
+    "Vou sentir saudades."
+  ],
+  "Normais-Singular": [
+    "Te vejo em breve.",
+    "Não demore.",
+  ],
+  "Normais-Plural": [
+    "Vejo vocês em breve.",
+    "Não demorem."
+  ],
+  "Engraçadas": [
+    "Falou",
+    "Enquanto uns se divertem, outros trabalham."
+  ],
+  "Engraçadas-Singular": [
+    "Se demorar, vai rolar festinha!",
+    "Vai pela sobra"
+  ],
+  "Engraçadas-Plural": [
+    "Se demorarem, vai rolar festinha!",
+    "Vão pela sombra."
+  ],
+  "Sarcásticas": [
+    "Até que enfim",
+    "Finalmente vou ter sossego."
+  ],
+  "Sarcásticas-Singular": [
+    "Vá e demore!",
+    "Quanto mais tempo ficar fora, melhor!"
+  ],
+  "Sarcásticas-Plural": [
+    "Vão e demorem!",
+    "Quanto mais tempo ficarem fora, melhor!"
+  ]
+}
