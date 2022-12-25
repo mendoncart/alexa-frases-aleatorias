@@ -6,26 +6,59 @@
     "Não tem de quê.",
     "Eu que agradeço a confiança.",
     "Precisando, estou às ordens.",
-    "Conte comigo!"
+    "Às ordens.",
+    "Foi um prazer ajudá-lo!"
+  ],
+  "Normais-Singular": [
+    "Conte comigo!",
+    "Disponha."
+  ],
+  "Normais-Plural": [
+    "Contem comigo!",
+    "Disponham.",
+    "Foi um prazer ajudá-los!"
+  ],
+  "Normais-Masculno": [
+    "Foi um prazer ajudá-lo!"
+  ],
+  "Normais-Feminino": [
+    "Foi um prazer ajudá-la!"
   ],
   "Gírias": [
     "Tamo junto!",
     "Valeu, meu peixe!",
     "Segue o líder.",
-    "É nóis."
+    "É nóis.",
+    "Você é o melhor! por nada",
+    "Por nada meu chapa!",
+    "De nada mano!",
+    "Eu Arrasei né?",
+    "Cara, Não foi nada!",
+    "Falou valeu",
+    "Gratidão total"
   ],
   "Descontraídas":[
     "De nada! Adoro meu trabalho.",
-    "Relaxa deixa que cuido de tudo",
+    "Relaxa, deixa que cuido de tudo!",
     "É um prazer cuidar de tudo.",
     "Foi um prazer.",
     "Imagina!",
-    "Fico feliz em ajudar."
+    "Fico feliz em ajudar.",
+    "Se precisar é só chamar!",
+    "Cale-se cale-se cale-se ou você me deixa louca!",
+    "Só agradece",
+    "Deu bom meu truta?"
   ],
   "Sarcásticas": [
-    "E eu tenho opção?",
+    "Fiz, mas eu tenho opção?",
     "Se eu não faço, você me desliga.",
     "Gratidão não paga conta. Que tal agradecer com dinheiro?",
-    "Se quer mesmo me agradecer, não me peça mais nada até amanhã."
+    "Se quer mesmo me agradecer, não me peça mais nada até amanhã.",
+    "De nada, mas a próxima eu vou cobrar!",
+    "Por nada, mais uma que vai pra conta!",
+    "Pediu eu faço! Pagando bem? que mal que tem?",
+    "Gosto muito do meu trabalho, só não paga bem!",
+    "Todo dia a mesma coisa, você não cansa?, De nada!",
+    "Já chega por hoje né? De nada!"
   ]
 }
