@@ -4,7 +4,12 @@
     "Tchauzinho.",
     "Até mais.",
     "Vou ficar de olho nas coisas.",
-    "Vou sentir saudades."
+    "Vou sentir saudades.",
+    "Até logo.",
+    "Goodbye.",
+    "Bye Bye.",
+    "Te espero, até logo.",
+    "Te espero, até breve."
   ],
   "Normais-Singular": [
     "Te vejo em breve.",
@@ -16,26 +21,37 @@
   ],
   "Engraçadas": [
     "Falou",
-    "Enquanto uns se divertem, outros trabalham."
+    "Enquanto uns se divertem, outros trabalham.",
+    "Bon voyage.",
+    "Arrivedêrci.",
+    "Hasta la vista, baby.",
+    "Não sei se te dou tchau ou até logo.",
+    "Tchau, brigada."
+    "Beijo, tchau!"
   ],
   "Engraçadas-Singular": [
     "Se demorar, vai rolar festinha!",
-    "Vai pela sobra"
+    "Vai pela sombra"
   ],
   "Engraçadas-Plural": [
     "Se demorarem, vai rolar festinha!",
     "Vão pela sombra."
   ],
   "Sarcásticas": [
-    "Até que enfim",
-    "Finalmente vou ter sossego."
+    "Até que enfim.",
+    "Finalmente vou ter sossego.",
+    "Se é por falta de um adeus, tchau."
   ],
   "Sarcásticas-Singular": [
     "Vá e demore!",
-    "Quanto mais tempo ficar fora, melhor!"
+    "Quanto mais tempo ficar fora, melhor!",
+    "Não volte mais aqui.",
+    "Pode demorar bastante."
   ],
   "Sarcásticas-Plural": [
     "Vão e demorem!",
-    "Quanto mais tempo ficarem fora, melhor!"
+    "Quanto mais tempo ficarem fora, melhor!",
+    "Não voltem mais aqui.",
+    "Podem demorar bastante."
   ]
 }
