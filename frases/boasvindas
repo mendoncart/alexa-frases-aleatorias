@@ -21,11 +21,28 @@
     "Achei que não voltariam mais.",
     "Voltaram tão rápido."
   ],
+  "Engraçadas": [
+    "Seja quem for, se me trouxer cerveja é bem-vindo.",
+    "Minha casa também é a sua casa",
+    "Ôpa, chega mais!"
+  ],
   "Engraçadas-Masculino": [
-    "Oi sumido."
+    "Oi sumido.",
+    "Bem vindo, mas se quiser atrapalhar, vai ter que pegar a fila.",
+    "Seja bem-vindo, mas traga cerveja!",
+    "Seja bem-vindo, só não repare na bagunça.",
+    "Trouxe comida? Então entre, seja bem-vindo!",
+    "Trouxe comida? Então entre, seja bem-vindo! Não trouxe? Dê meia volta e saia daqui.",
+    "Seja bem-vindo, amigo!"
   ],
   "Engraçadas-Feminino": [
-    "Oi sumida."
+    "Oi sumida.",
+    "Bem vinda, mas se quiser atrapalhar, vai ter que pegar a fila.",
+    "Seja bem-vinda, mas traga cerveja!",
+    "Seja bem-vinda, só não repare na bagunça.",
+    "Trouxe comida? Então entre, seja bem-vinda!",
+    "Trouxe comida? Então entre, seja bem-vinda! Não trouxe? Dê meia volta e saia daqui.",
+    "Seja bem-vinda, amiga!"
   ],
   "Engraçadas-Singular": [
     "Já estava com saudades.",
@@ -35,7 +52,16 @@
   "Engraçadas-Plural": [
     "Já estava com saudades.",
     "Fiquem a vontade. Mas não muito...",
-    "Se demorassem mais, ia rolar festinha."
+    "Se demorassem mais, ia rolar festinha.",,
+    "Bem vindos, mas se quiserem atrapalhar, vão ter que pegar a fila.",
+    "Sejam bem-vindos, mas tragam cerveja!",
+    "Sejam bem-vindos, só não reparem na bagunça.",
+    "Troucéram comida? Então entrem, sejam bem-vindos!",
+    "Troucéram comida? Então entrem, sejam bem-vindos! Não Troucéram? Então Deem meia volta e saiam daqui.",
+    "Sejam bem-vindos, amigos!",
+    "Se quiserem ajudar, sejam bem-vindos.",
+    "Sejam quem for, se me trouxérem cerveja são bem-vindos.",
+    "Ôpa, chêguem mais!"
   ],
   "Sarcásticas": [
     "Sabe a diferença entre eu e um cachorro? O cachorro fica feliz quando você volta pra casa.",
