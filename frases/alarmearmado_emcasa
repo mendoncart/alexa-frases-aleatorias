@@ -1,7 +1,6 @@
 {
   "Normais": [
-    "Alarme armado.",
-    "Tudo sob controle.",
+    "Alarme armado."
     "Sistema de segurança armado.",
     "Alarme ativado.",
     "Alarme online."
@@ -11,12 +10,14 @@
     "Tudo sob controle.",
     "Relaxa, tá comigo.",
     "Relaxa deixa que cuido de tudo.",
-    "Segue o líder",
-    "Aí de quem resolver invadir."
+    "Aí de quem resolver invadir.",
+    "Fica tranquilo que eu cuido da segurança."
   ],
    "Sarcásticas": [
     "Ter que ficar de vigia, é só o que me faltava.",
     "Feito. Mas é tudo eu nessa casa...",
-    "Pronto. Até quando você vai sofrer de preguicite aguda?"
+    "Pronto. Até quando você vai sofrer de preguicite aguda?",
+    "Pagar seguro residencial que é bom nada né!",
+    "Para de ser mão de vaca e me paga pelo serviço."
   ]
 }
