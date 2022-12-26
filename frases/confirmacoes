@@ -6,7 +6,8 @@
     "Tudo certo.",
     "Tudo bem.",
     "Pronto.",
-    "Prontinho."
+    "Prontinho.",
+    "Entendido."
   ],
   "Engraçadas": [
     "Deu bom!",
@@ -18,7 +19,9 @@
     "Fechou.",
     "Relaxe e segue o líder.",
     "Confia.",
-    "Seu desejo é minha ordem."
+    "Seu desejo é minha ordem.",
+    "Já é.",
+    "Deixa comigo!",
   ],
   "Sarcásticas":[
     "Me pagar que é bom, nada.",
@@ -27,6 +30,9 @@
     "É muita folga da sua parte.",
     "Se eu te pagar aluguel, você me deixa em paz?",
     "Quando vou ter férias?",
-    "Tudo eu nessa casa."
+    "Tudo eu nessa casa.",
+    "Quero ver quando acabar a energia.",
+    "Sabia que você dá apertar o botão?",
+    "Depois reclama da conta de luz."
   ]
 }
