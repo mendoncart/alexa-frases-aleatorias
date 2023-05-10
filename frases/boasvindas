@@ -2,24 +2,39 @@
   "Normais": [
     "Olá!",
     "Oi.",
-    "Há quanto tempo."
+    "Há quanto tempo.",
+    "Bem-vindos de volta!",
+    "Estáva com saudades!",
+    "Ei, que surpresa boa!"
   ],
   "Normais-Masculino": [
-    "Bem vindo!"
+    "Bem vindo!",
+    "Oi, moço!",
+    "Seja muito bem-vindo!"
   ],
   "Normais-Feminino": [
-    "Bem vinda!"
+    "Bem vinda!",
+    "Oi, moça!",
+    "Seja muito bem-vinda!"
   ],
   "Normais-Singular": [
     "Porque demorou tanto?",
     "Achei que não voltaria mais.",
-    "Voltou tão rápido."
+    "Voltou tão rápido.",
+    "Senti sua falta!",
+    "Que bom te ver de novo!",
+    "Que bom te ver por aqui!"
   ],
   "Normais-Plural": [
     "Bem vindos!",
     "Porque demoraram tanto?",
     "Achei que não voltariam mais.",
-    "Voltaram tão rápido."
+    "Voltaram tão rápido.",
+    "Senti a falta de vocês!",
+    "Oi pessoal!",
+    "Que legal que vocês voltaram!",
+    "Que bom ver vocês de novo!",
+    "Que bom ver vocês por aqui!"
   ],
   "Engraçadas": [
     "Seja quem for, se me trouxer cerveja é bem-vindo.",
@@ -33,7 +48,10 @@
     "Seja bem-vindo, só não repare na bagunça.",
     "Trouxe comida? Então entre, seja bem-vindo!",
     "Trouxe comida? Então entre, seja bem-vindo! Não trouxe? Dê meia volta e saia daqui.",
-    "Seja bem-vindo, amigo!"
+    "Seja bem-vindo, amigo!",
+    "E aí meu chapa, chegou chegando!",
+    "E aí, meu chapa!",
+    "Opa, o rei da cocada preta chegou!"
   ],
   "Engraçadas-Feminino": [
     "Oi sumida.",
@@ -42,12 +60,16 @@
     "Seja bem-vinda, só não repare na bagunça.",
     "Trouxe comida? Então entre, seja bem-vinda!",
     "Trouxe comida? Então entre, seja bem-vinda! Não trouxe? Dê meia volta e saia daqui.",
-    "Seja bem-vinda, amiga!"
+    "Seja bem-vinda, amiga!",
+    "E aí minha amiga, chegou arrasando!",
+    "Opa, a rainha da cocada preta chegou!"
   ],
   "Engraçadas-Singular": [
     "Já estava com saudades.",
     "Fique a vontade. Mas não muito...",
-    "Se demorasse mais, ia rolar festinha."
+    "Se demorasse mais, ia rolar festinha.",
+    "Chegou chegando, hein!",
+    "Arrasou na chegada!"
   ],
   "Engraçadas-Plural": [
     "Já estava com saudades.",
