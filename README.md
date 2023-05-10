@@ -8,9 +8,10 @@ Este nó, permite ao usuário definir a categoria a ser usada, removendo desta s
 ## Como colaborar com suas frases?
 Essa ferramenta é tão boa quanto as frases disponíveis. Para isso, nos ajude a aumentar nosso acervo.
 
-Basta fazer um pull request, e se por acaso eu não ver, me dá um toque em [@ruytter](https://telegram.me/ruytter) no telegram!
-
-Se não souber fazer um pull request, também pode me mandar suas sugestões de frases pelo telegram.
+Opções para adicionar frases:
+  - Basta fazer um pull request, e se por acaso eu não ver, me dá um toque em [@ruytter](https://telegram.me/ruytter) no telegram!
+  - Através deste [formulário google](https://forms.gle/vKJUmN2w9bmEJmPH8) simples.
+  - Me mandar suas sugestões de frases pelo telegram.
 
 ## Instruções de uso
 
